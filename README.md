@@ -1,3 +1,8 @@
+<!-- github-profile-views-counter -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=fredkoya" />
+</div>
+
 ## Hi there 👋
 
 <!--
