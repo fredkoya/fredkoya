@@ -3,7 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=fredkoya" />
 </div>
 
-## Hi there 👋
+<!-- Profile and SNS -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+- 🧑‍💻 I'm a software engineer.
+- 🌱 I’m currently learning go!
+- 📫 How to reach me: [X - @fredkoya](https://x.com/fredkoya)
+<br>
 
 <!--
 **fredkoya/fredkoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
