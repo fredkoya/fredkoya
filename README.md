@@ -10,6 +10,11 @@
 - 📫 How to reach me: [X - @fredkoya](https://x.com/fredkoya)
 <br>
 
+<!-- Skills -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,vue,nuxtjs,python,django,go,ruby,docker,terraform,aws,gcp,figma" />
+<br>
+
 <!--
 **fredkoya/fredkoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
