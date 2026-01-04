@@ -14,10 +14,3 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,vue,nuxtjs,python,django,go,ruby,docker,terraform,aws,gcp,figma" />
 <br>
-
-<!-- Activities -->
-## 🏃‍♀️ Activities
-<div align="left">
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=fredkoya&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredkoya&theme=vue-dark&layout=compact" />
-</div>
