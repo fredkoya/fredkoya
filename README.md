@@ -6,7 +6,7 @@
 <!-- Profile and SNS -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 - 🧑‍💻 I'm a software engineer.
-- 🌱 I’m currently learning go!
+- 🌱 I’m currently learning Golang and Nuxt!
 - 📫 How to reach me: [X - @fredkoya](https://x.com/fredkoya)
 <br>
 
