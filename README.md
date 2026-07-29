@@ -15,5 +15,5 @@ Last Updated on 7/29/2026, 3:01:17 AM</p>
 
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,vue,nuxtjs,python,django,go,ruby,docker,terraform,aws,gcp,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,jquery,vue,nuxtjs,react,nextjs,python,django,fastapi,go,ruby,rails,aws,gcp,firebase,cloudflare,heroku,ansible,terraform,docker,linux,bash,git,github,githubactions,mysql,postgres,md,figma" />
 <br>
