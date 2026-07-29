@@ -1,4 +1,8 @@
 {
   // Inline HTML is required for card rendering and layout in the GitHub profile
-  "MD033": false
+  "MD033": false,
+  // Embedded HTML and the generated LAPRAS card exceed any sane line limit
+  "MD013": false,
+  // The profile README starts at h2 to keep heading sizes visually balanced
+  "MD041": false
 }
