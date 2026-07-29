@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning Golang and Nuxt and AWS!
 - 📫 How to reach me: [X - @fredkoya](https://x.com/fredkoya)
 <br>
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 <!-- Skills -->
 ## 🌱 Skills
