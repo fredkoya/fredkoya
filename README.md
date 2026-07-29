@@ -1,5 +1,7 @@
 <!-- Profile and SNS -->
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
 - 🧑‍💻 I'm a software engineer.
 - 🌱 I’m currently learning Golang and Nuxt and AWS!
 - 📫 How to reach me: [X - @fredkoya](https://x.com/fredkoya)
@@ -10,6 +12,8 @@ Last Updated on 7/29/2026, 3:01:17 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!-- Skills -->
+
 ## 🌱 Skills
+
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,vue,nuxtjs,python,django,go,ruby,docker,terraform,aws,gcp,figma" />
 <br>
